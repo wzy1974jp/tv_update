@@ -1,0 +1,233 @@
+﻿#EXTM3U8
+#EXTINF:-1 group-title="美国",ABC News
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 group-title="美国",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 group-title="美国",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="美国",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 group-title="美国",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 group-title="美国",FOX Business (1080p)
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 group-title="美国",CBC News Network
+https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
+#EXTINF:-1 group-title="美国",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国",NEWSMAX
+https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
+#EXTINF:-1 group-title="美国",NEWSMAX2
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="日本",NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",WOWOW Live (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Star 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Disney Junior (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Fishing Vision (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Golf Network (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",MTV Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&checkedby:iptvcat.com
+#EXTINF:-1 group-title="日本",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&checkedby:iptvcat.com
+#EXTINF:-1 group-title="央视频道",CCTV-1 (720p)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3[720][S]
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4[1080][S]
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+#EXTINF:-1 group-title="央视频道",,CCTV-5 (720p)
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+ (720p)
+http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6[1080][S]
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7[720][S]
+http://192.151.150.154/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8[720][S]
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CCTV9[720][S]
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10[720][S]
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11[720][S]
+http://107.150.60.122/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12 (720p)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13 (720p)
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 group-title="央视频道",CCTV14[720][S]
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15[720][S]
+http://107.150.60.122/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16 (1080p)
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17 (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4K (1080p)
+http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.ctv
+#EXTINF:-1 group-title="卫视频道",湖南卫视(1080p)
+http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视(1080p)
+http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://74.91.26.218:82/live/jswshd.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视(1080p)
+http://74.91.26.218:82/live/dfwshd.m3u8
+#EXTINF:-1 group-title="卫视频道",广东卫视[720][S]
+http://207.56.13.146:81/cdnlive/gdws.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视[1080][S]
+http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",浙江卫视[1080][S]
+http://74.91.26.218:82/live/zjwshd.m3u8
+#EXTINF:-1 group-title="卫视频道",云南卫视
+https://stream1.freetv.fun/a2a0fa655e9a5b0c1c16271c093cadcaa175b9cf5046102a4dc37ab05a297a5d.ctv
+#EXTINF:-1 group-title="地方频道",上海都市HD
+http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方频道",五星体育HD
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 group-title="香港",凤凰资讯 (720p)
+http://r.jdshipin.com/0Rp07?checkedby:iptvcat.com
+#EXTINF:-1 group-title="香港",凤凰中文[720]
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="香港",翡翠台
+http://php.jdshipin.com:8880/iptv.php?id=fct
+#EXTINF:-1 group-title="香港",TVB新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="台湾",民视
+https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
+#EXTINF:-1 group-title="台湾",民视-c
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="台湾",华视
+https://iptv.852851.xyz/ch/7a872af54b1cf5759760cda101a96322/master.m3u8
+#EXTINF:-1 group-title="台湾",华视-c
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="台湾",台视-c
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="台湾",中视-c
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="台湾",三立新闻iNEWS
+https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
+#EXTINF:-1 group-title="台湾",三立新闻iNEWS-c
+https://test.946985.filegear-sg.me/proxy/00de5aa900efc4a6
+#EXTINF:-1 group-title="台湾",中视新闻
+https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
+#EXTINF:-1 group-title="台湾",中视新闻-c
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="台湾",华视新闻
+https://iptv.852851.xyz/ch/aded50059a1800c43d8550835d5bffc7/master.m3u8
+#EXTINF:-1 group-title="台湾",华视新闻-c
+https://test.946985.filegear-sg.me/proxy/db5de5d676197e66
+#EXTINF:-1 group-title="台湾",中天新闻
+https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
+#EXTINF:-1 group-title="台湾",中天新闻-c
+https://test.946985.filegear-sg.me/proxy/3afbd1dfcb523c6e
+#EXTINF:-1 group-title="台湾",东森新闻
+https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
+#EXTINF:-1 group-title="台湾",东森新闻-c
+https://test.946985.filegear-sg.me/proxy/666a3149098342a0
+#EXTINF:-1 group-title="台湾",东森财经新闻
+https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
+#EXTINF:-1 group-title="台湾",东森财经新闻-c
+https://test.946985.filegear-sg.me/proxy/f12538d1a3c40515
+#EXTINF:-1 group-title="台湾",寰宇新闻
+https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
+#EXTINF:-1 group-title="台湾",寰宇新闻-c
+https://test.946985.filegear-sg.me/proxy/e3f6ff0bccdd3743
+#EXTINF:-1 group-title="台湾",台视新闻-c
+https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
+#EXTINF:-1 group-title="台湾",美亚电影
+https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
+#EXTINF:-1 group-title="台湾",美亚电影-c
+https://test.946985.filegear-sg.me/proxy/bdc068338650cbe8
+#EXTINF:-1 group-title="台湾",龙华电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 group-title="台湾",龙华电影-c
+https://test.946985.filegear-sg.me/proxy/3e25c26d79d21d2d
+#EXTINF:-1 group-title="台湾",博斯网球
+https://iptv.852851.xyz/ch/1c0e5173c5b9386231fca5f45448439e/master.m3u8
+#EXTINF:-1 group-title="台湾",博斯网球-c
+https://test.946985.filegear-sg.me/proxy/88cbc68cd535170c
+#EXTINF:-1 group-title="台湾",博斯无限
+https://iptv.852851.xyz/ch/fbe894f41736b84a0191df32c560ecf4/master.m3u8
+#EXTINF:-1 group-title="台湾",博斯无限-c
+https://test.946985.filegear-sg.me/proxy/2b2601bab98ad272
+#EXTINF:-1 group-title="台湾",博斯高球
+https://iptv.852851.xyz/ch/a5e9e7032ecb8af768a65c9ae12fc884/master.m3u8
+#EXTINF:-1 group-title="台湾",博斯高球-c
+https://test.946985.filegear-sg.me/proxy/36caeba73fc322ef
+#EXTINF:-1 group-title="台湾",博斯魅力
+https://iptv.852851.xyz/ch/5e1200949d2834e71002c6603f0c69cf/master.m3u8
+#EXTINF:-1 group-title="台湾",博斯魅力-c
+https://test.946985.filegear-sg.me/proxy/5f7ea293cf539100
+#EXTINF:-1 group-title="台湾",博斯运动一台
+https://iptv.852851.xyz/ch/0474efea8c1c3c6e20242824c61b5e92/master.m3u8
+#EXTINF:-1 group-title="台湾",博斯运动一台-c
+https://test.946985.filegear-sg.me/proxy/0f1906324484e7eb
+#EXTINF:-1 group-title="台湾",Now新闻台
+https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
+#EXTINF:-1 group-title="台湾",Now新闻台-c
+https://test.946985.filegear-sg.me/proxy/0320d778835e2848
+#EXTINF:-1 group-title="台湾",Now星影台
+https://iptv.852851.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
+#EXTINF:-1 group-title="台湾",Now星影台-c
+https://test.946985.filegear-sg.me/proxy/84de4c236d106553
+#EXTINF:-1 group-title="台湾",Now爆谷台
+https://iptv.852851.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
+#EXTINF:-1 group-title="台湾",Now爆谷台-c
+https://test.946985.filegear-sg.me/proxy/d82d2bda2cc2cbaa
+#EXTINF:-1 group-title="台湾",AMC电影台
+https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.m3u8
+#EXTINF:-1 group-title="台湾",AMC电影台-c
+https://test.946985.filegear-sg.me/proxy/b76b254f6596b0e4
